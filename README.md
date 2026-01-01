@@ -9,6 +9,8 @@
 
 ## Games
 
+- [The Elder Scrolls 4: Oblivion](https://github.com/Szessera/TES4-Oblivion/blob/dbcb9af49a3d475486c6a6ed600d8d04ff0c98fb/README.md)
+
 ## Modding
 
 ## Operating Systems
