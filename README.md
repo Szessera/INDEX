@@ -9,6 +9,7 @@
 
 ## Games
 
+- [Might and Magic I: Secret of the Inner Sanctum](https://github.com/Szessera/Might-and-Magic-I/blob/87272052bcd96695331c53c278e9a63dbf0071eb/README.md)
 - [The Elder Scrolls 4: Oblivion](https://github.com/Szessera/TES4-Oblivion/blob/dbcb9af49a3d475486c6a6ed600d8d04ff0c98fb/README.md)
 - [The Elder Scrolls 5: Skyrim](https://github.com/Szessera/TES5-Skyrim/blob/dd2978a9ad658537d468464ad144859a0b391b9f/README.md)
 
