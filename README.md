@@ -7,6 +7,10 @@
 - [Rainmeter](https://github.com/Szessera/Rainmeter/blob/37c1553fdff84b8815e6e589b7661317e9a063e2/README.md)
 - [RPG Maker](https://github.com/Szessera/RPG-Maker/blob/0de4c9a443be6c536a6fe7d919cced562f33f845/README.md)
 
+## File formats
+
+- [AmigaGuide](https://github.com/Szessera/AmigaGuide/blob/f7bcfaa0fa7580ae439a9747bdd638d244947506/README.md)
+
 ## Games
 
 - [Dragon Wars](https://github.com/Szessera/Dragon-Wars/blob/c1dca77aa675163bc4b0ce8b803c03efd745c3df/README.md)
