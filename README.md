@@ -14,6 +14,7 @@
 ## Games
 
 - [Dragon Wars](https://github.com/Szessera/Dragon-Wars/blob/c1dca77aa675163bc4b0ce8b803c03efd745c3df/README.md)
+- [Gargoyle Rebirth](https://github.com/Szessera/Gargoyle-Rebirth/blob/e2e981a087e48bb67f3acdf5f1204e4073c76b3e/README.md)
 - [Might and Magic I: Secret of the Inner Sanctum](https://github.com/Szessera/Might-and-Magic-I/blob/87272052bcd96695331c53c278e9a63dbf0071eb/README.md)
 - [The Elder Scrolls 4: Oblivion](https://github.com/Szessera/TES4-Oblivion/blob/dbcb9af49a3d475486c6a6ed600d8d04ff0c98fb/README.md)
 - [The Elder Scrolls 5: Skyrim](https://github.com/Szessera/TES5-Skyrim/blob/dd2978a9ad658537d468464ad144859a0b391b9f/README.md)
